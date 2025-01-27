@@ -10,3 +10,28 @@
     --Fonte1: "Montserrat", serif;
     --Fonte2: "Open Sans", serif;
 }
+
+header{
+    background-color: var(--Cor2);
+    height:80px;
+}
+
+h1{
+    font-family: var(--Fonte2);
+    color: white;
+    text-align: center;
+}
+
+
+nav{
+    background-color: #E9C46A;
+}
+
+body{
+    background-color: #2A9D8F;
+    font-family: var(--Fonte1);
+}
+
+footer{
+    background-color: #E9C46A;
+}
