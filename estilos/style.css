@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+:root{
+    --Cor1: #2A9D8F; 
+    --Cor2: #264653; 
+    --Cor3: #E9C46A; 
+    --Cor4: #F4A261; 
+
+    --Fonte1: "Montserrat", serif;
+    --Fonte2: "Open Sans", serif;
+}
